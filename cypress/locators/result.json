@@ -1,0 +1,5 @@
+{
+  "title": "#messageHeader",
+  "exit": ".exitButton",
+  "footer": ".link"
+}

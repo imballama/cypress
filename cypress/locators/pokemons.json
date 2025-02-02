@@ -1,0 +1,15 @@
+{
+    "email": "input[type='email']",
+    "password": "input[type='password']",
+    "submit": "button[type='submit']",
+    "id": ".header__container > .header__id",
+    "shop_link": "[href='/shop']",
+    "available_button": ".available > button",
+    "credit": ".credit",
+    "cvv": ".k_input_ccv",
+    "date": ".k_input_date",
+    "name": ".k_input_name",
+    "pay_button": ".pay-btn",
+    "cardnumber": "#cardnumber",
+    "payment_sub_but": ".payment__submit-button"
+}
